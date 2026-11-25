@@ -1,5 +1,7 @@
 const startButton = document.getElementById("startButton");
 const statusText = document.getElementById("status");
+const bubble = document.getElementById("bubble");
+const levelStatus = document.getElementById("levelStatus");
 
 startButton.addEventListener("click", startSensor);
 
